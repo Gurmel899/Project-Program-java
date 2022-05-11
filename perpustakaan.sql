@@ -127,3 +127,5 @@ ALTER TABLE `stok`
 
 
 /* AKU NAMBAH FITUR*/
+
+/* FITUR GAJI POKOK */
